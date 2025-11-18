@@ -1,0 +1,9 @@
+[project]
+name = "discord-role-checker-bot"
+version = "0.1.0"
+description = "Discord bot that kicks members without required roles"
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "discord-py>=2.3.0",
+]
